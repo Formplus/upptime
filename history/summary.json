@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/formpl.us",
     "slug": "template-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2711,
-    "timeDay": 2229,
-    "timeWeek": 2871,
-    "timeMonth": 2711,
-    "timeYear": 2711,
+    "uptime": "98.98%",
+    "uptimeDay": "68.86%",
+    "uptimeWeek": "95.55%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 2656,
+    "timeDay": 979,
+    "timeWeek": 2622,
+    "timeMonth": 2656,
+    "timeYear": 2656,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-13": 41,
+      "2021-02-12": 407
     }
   }
 ]
