@@ -4,7 +4,7 @@
     "url": "https://formpl.us/templates",
     "icon": "https://favicons.githubusercontent.com/formpl.us",
     "slug": "template-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 4825,
     "timeYear": 4799,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-03-02": 249,
       "2022-01-14": 23,
       "2021-11-16": 40,
