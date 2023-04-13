@@ -4,8 +4,8 @@
     "url": "https://formpl.us/templates",
     "icon": "https://icons.duckduckgo.com/ip3/formpl.us.ico",
     "slug": "template-page",
-    "status": "up",
-    "uptime": "88.22%",
+    "status": "down",
+    "uptime": "88.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 4203,
     "timeYear": 4274,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-01-24": 804,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
