@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/formpl.us.ico",
     "slug": "template-page",
     "status": "up",
-    "uptime": "90.61%",
+    "uptime": "90.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "79.00%",
-    "time": 4409,
-    "timeDay": 4028,
-    "timeWeek": 4333,
-    "timeMonth": 5026,
-    "timeYear": 4422,
+    "uptimeYear": "79.27%",
+    "time": 4414,
+    "timeDay": 6051,
+    "timeWeek": 4612,
+    "timeMonth": 4973,
+    "timeYear": 4428,
     "dailyMinutesDown": {
       "2023-11-06": 17,
       "2023-07-20": 16,
@@ -93,8 +93,7 @@
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
-      "2022-11-11": 1440,
-      "2022-11-10": 1440
+      "2022-11-11": 1440
     }
   }
 ]
